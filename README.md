@@ -1,3 +1,4 @@
 
-"This is aarrill's first git project!"
+"This is my first git project!"
+"project: google-homepage"
 
